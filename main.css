@@ -29,3 +29,21 @@
     header {
     text-align: center;    
     }
+
+        /* buttons */
+        .startButton {
+            height: 50px;
+            width: 300px;
+            border-radius: 50px;
+            background-color: rgb(43, 226, 52);
+            border-color: rgb(0, 0, 0);
+        }
+    
+        /* buttons */
+        .stopButton {
+            height: 50px;
+            width: 300px;
+            border-radius: 50px;
+            background-color: rgb(255, 0, 0);
+            border-color: rgb(0, 0, 0);
+        } 
